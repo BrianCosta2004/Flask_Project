@@ -2,4 +2,25 @@
 
 Primeiro site desenvolvido utilizando o Framework de Python (Flask)<br>
 ![flask](https://user-images.githubusercontent.com/67477751/203452342-2b881ec1-183b-4209-b3d9-37a7cfea9094.png)
-
+<br>
+![1](https://user-images.githubusercontent.com/106749250/203455808-b0f0e4ec-8c4c-4c6e-a18d-eec63b7d129b.png)
+![2](https://user-images.githubusercontent.com/106749250/203455820-e8ba9ef4-7976-493d-bcae-cddf2539e058.png)
+![3](https://user-images.githubusercontent.com/106749250/203455822-be65fc6d-0323-40c0-ba92-52c5d67e7e01.png)
+![4](https://user-images.githubusercontent.com/106749250/203455823-dab6a2f1-6ca0-48fb-90fb-bc15f600a239.png)
+![5](https://user-images.githubusercontent.com/106749250/203455826-81848c36-31d8-44b4-87c9-7f5ff9409296.png)
+![6](https://user-images.githubusercontent.com/106749250/203455827-e6dc2dda-c02a-4959-afb5-ce9317397eb7.png)
+![7](https://user-images.githubusercontent.com/106749250/203455828-af6e6a9c-af9e-4e1e-b101-b69ef6c0a345.png)
+![8](https://user-images.githubusercontent.com/106749250/203455832-ae09c24c-1936-4092-973a-55a2b655776d.png)
+![9](https://user-images.githubusercontent.com/106749250/203455835-959ba44a-a2a5-446d-9eb1-8c8b8d4f3f85.png)
+![10](https://user-images.githubusercontent.com/106749250/203455836-616c842c-36f6-40c6-8d6d-291194179ebd.png)
+![11](https://user-images.githubusercontent.com/106749250/203455838-0725075a-e31c-41f5-ae63-48d6e21a6483.png)
+![12](https://user-images.githubusercontent.com/106749250/203455842-035491f4-59ba-46b8-a795-18bb7e603181.png)
+![13](https://user-images.githubusercontent.com/106749250/203455845-a503087a-8158-4ffb-bbd9-917ae7f05b8a.png)
+![14](https://user-images.githubusercontent.com/106749250/203455846-70ff2175-eb6f-41b8-8c98-c05bfb9942ad.png)
+![15](https://user-images.githubusercontent.com/106749250/203455849-e55a7729-74a6-4255-b660-eb55cd777e28.png)
+![16](https://user-images.githubusercontent.com/106749250/203455851-388a3235-29c2-473b-bf6e-c098a31eae75.png)
+![17](https://user-images.githubusercontent.com/106749250/203455853-c0ee3c80-b856-4ce9-ba7b-27ebcbbb8b58.png)
+![18](https://user-images.githubusercontent.com/106749250/203455854-6c66c6e3-2075-467f-8fb5-13187973c16f.png)
+![19](https://user-images.githubusercontent.com/106749250/203455855-5405f96b-b829-4689-9774-e49b28bd58c2.png)
+![20](https://user-images.githubusercontent.com/106749250/203455856-8d363b49-6f76-4b6c-86b8-613612a29a1f.png)
+![21](https://user-images.githubusercontent.com/106749250/203455860-61d8f4e0-1216-4c90-8b94-89176137ee69.png)
